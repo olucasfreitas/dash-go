@@ -7,7 +7,6 @@ import {
 } from "react-icons/ri";
 import { NavSection } from "./NavSection";
 import { NavLink } from "./NavLink";
-import Link from "next/link";
 
 export function SidebarNav() {
   return (
